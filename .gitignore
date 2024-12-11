@@ -1,0 +1,7 @@
+# Ignore debug and data files
+main_page_debug.html
+product_data.js
+product_debug.html
+
+# Ignore environment configuration file
+config.env
